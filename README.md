@@ -1,2 +1,3 @@
 # hitFIGHTER
-all button controller
+All-button fighting controller running GP2040-ce firmware
+![](media/outdoor.jpg)
